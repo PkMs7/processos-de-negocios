@@ -26,7 +26,7 @@
 
     - BPMN é a linguagem de modelagem gráfica.
 
-        -  ![Elementos de BPMN](elementosBPMN.png)
+        -  ![Elementos de BPMN](../Anexos/img/elementosBPMN.png)
 
 #### 2.0 Atividades, ligações e subprocessos
 
@@ -68,3 +68,67 @@
 ### UML: modelagem de soluções
 
 #### 1.0 Visão inicial UML
+
+- UML (Linguagem de Modelagem Unificada) - A UML se baseia na Orientação a Objetos.
+
+- Ferramentas grátis de UML:
+
+    - [Astah](http://astah.net/editions/community)
+
+    - [ArgoUML](https://github.com/argouml-tigris-org)
+
+- Ferramentas pagas de UML:
+
+    - [Sparx](http://www.sparxsystems.com/)
+
+    - [Draw io](http://draw.io)
+
+#### 2.0 Diagramas de Caso de Uso
+
+- Diagrama de Caso de Uso: Documento que comunica o que o sistema faz do ponto de vista do usuário.
+
+    - Ator: Personagem das interações com as funcionalidades
+    - Casos: Funcionalidades
+    - Esteriótipos: Informações de ligações entre os casos
+    - Comunicação: As setas que ligam os atores com as funcionalidades
+
+    ![Exemplo](../Anexos/img/DiagramaDeCasoDeUso.png)
+
+#### 3.0 Diagramas de Classes
+
+- Diagrama de Classes: Documento que comunica com a equipe de desenvolvimento, baseando suas classes na Orientação a Objeto.
+
+    - Sinal de menos - Privado
+    - Sinal de mais - Público
+
+    ![Exemplo](../Anexos/img/DiagramaDeClasses.png)
+
+#### 4.0 Diagrama de Sequência
+
+- Diagrama de Sequência: Documento que comunica fluxos de negócios, que são geralmente um pouco mais complexos.
+
+    ![Exemplo](../Anexos/img/DiagramaDeSequencia.png)
+
+#### 5.0 Diagrama de Atividades
+
+- Diagrama de Atividades: Documento que comunica as atividades de um ator/funcionalidade dentro do sistema, caminhos que ele pode tomar, etc.
+
+    ![Exemplo](../Anexos/img/DiagramaDeAtividades.png)
+
+#### 6.0 Diagrama de Estados
+
+- Diagrama de Estados: Documento que comunica entidades no sistema que seu estado varia.
+
+    ![Exemplo](../Anexos/img/DiagramaDeEstados.png)
+
+#### 7.0 Diagrama de Componentes
+
+- Diagrama de Componentes: Documento que comunica como os sistemas conversam entre si.
+
+    ![Exemplo](../Anexos/img/DiagramaDeComponentes.png)
+
+### UML: modelagem de diagramas
+
+#### 1.0 Conceitos e Navegação Inicial
+
+- 
