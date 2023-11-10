@@ -131,4 +131,66 @@
 
 #### 1.0 Conceitos e Navegação Inicial
 
+- Alternativa ao Astah é o Modelio (open source):
+
+    [Modelio](https://www.modelio.org/)
+
+- Conceitos de Orientação a Objetos e UML:
+
+    - Orientação a Objetos é uma forma de você representar uma determinada realidade por meio de objetos, representação de uma realidade.
+
+    - UML é uma linguagem de modelagem unificada que foca na representação de processos de forma a facilitar a comunicação entre as partes envolvidas em um projeto.
+
+#### 2.0 Análise de Requisitos
+
+- Diagramas de Estrutura (Área técnica): Representam características que são estáticas.
+
+    - Classes
+    - Objetos
+    - Pacote
+    - Estrutura Composta
+    - Componentes
+    - Implantação
+    - Perfil
+
+- Diagramas de Comportamento (Área de Negócios): Representam características que são dinâmicas ao logno do projeto.
+
+    - Casos de Uso
+    - Atividades
+    - Máquina de Estado
+    - Interação:
+        
+        - Sequeência
+        - Comunicação
+        - Tempo
+        - Visão Geral
+
+- Diagramas criados para análise dos requisitos: Diagrama de Classes e Diagrama de Casos de Uso
+
+#### 3.0 Construção da Solução
+
+- Conceitos de Mensagem: elemento base para representarmos a comunicação (envio e recebimento) de informações entre objetos.
+
+    - Mensagens Síncronas: É aquela que é feita em sincronia, ou seja, a interação é feita em simultâneo. Precisa de um retorno para ser executada.
+
+    - Mensagens Assíncronas: É aquela que não é feita em sincronia, ou seja, a interação não é feita em simultâneo. Não precisa de um retorno para ser executada.
+
+- Diagramas criados para construção da solução: Diagrama de Atividades e Diagrama de Sequência
+
+#### 4.0 Implantação da Solução
+
+- Diagramas criados para implantação da solução: Diagrama de Máquinas de Estados e Diagrama de Componentes
+
+#### 5.0 Validação e Ajustes da Solução
+
+- Demarcar no projeto os agrupamentos que fazem parte de cada release.
+
+- Ideia de passagem do modelo lógico para o modelo físico.
+
+- A partir dos diagramas, se consegue desenhar um protótipo de telas.
+
+### MS Project: planejado cronogramas de projeto
+
+#### 1.0 Estruturando o projeto
+
 - 
