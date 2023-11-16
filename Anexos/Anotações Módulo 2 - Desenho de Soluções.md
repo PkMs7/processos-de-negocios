@@ -193,4 +193,76 @@
 
 #### 1.0 Estruturando o projeto
 
-- 
+- Para que se possa montar o cronograma alguns pressupostos tem que estar fechados:
+
+    - Projeto e orçamento aprovados
+    - Escopo mínimo fechado
+    - Estrutura Analítica do Projeto (EAP) do projeto definida
+
+- Alguns concorrentes do MS Project:
+
+    - Jira
+    - Asana
+    - Trello
+    - Click Up
+    - Monday
+
+- Estruturar de acordo com a EAP:
+
+    - Definir fases
+    - Definir tarefas
+        - Expectativas de recursos e tempo podem variar de acordo com a senioridade de seu executor
+
+    ![Estrutura do Projeto](./img/EstruturaProjeto.png)
+
+- Estruturar recursos do projeto (Pessoas e Ferramentas)
+
+    ![Estrutura de Recursos](./img/EstruturaRecurso.png)
+
+#### 2.0 Entendendo as visões do MS Project
+
+- Uma vez estruturado Fases, Tarefas e Recursos/Responsáveis se refina o projeto:
+
+    - Tarefas que tem vínculos (Relacionamento entre tarefas e latências)
+        - Notações de vínculo:
+
+            Término início(TI): Uma tarefa inicia quando outra terminar
+            Início Início(II): Uma tarefa inicia quando outra iniciar 
+
+    - Ajuste dos tempos de execução e prazos
+
+    ![Estrutura de Vinculos](./img/EstruturaVinculos.png)
+
+    - Obs.: Cuidados com as superalocações ao definir prazos e responsáveis
+
+    ![Observação](./img/ObservacaoSuperlocacao.png)
+
+- Com esses pontos definidos, o projeto já pode ser apresentado minimamente, com prazos e custos bem definidos.
+
+#### 3.0 Calendário do MS Project
+
+- Importância de alocar feriados no calendário (impacto no prazo de entrega) para mitigar riscos.
+
+- Fatores que impactam no calendário:
+
+    - Disponibilidade de recursos
+    - Período de execução da tarefa (possíveis problemas em tempo de execução que podem gerar atraso)
+    - Concorrência entre projetos (mais de um projeto em paralelo usando os mesmos recursos)
+
+- Obs.: Cuidar sempre para calendários padrões para ser compartilhados e serem de fácil compartilhamento entre projetos
+
+#### 4.0 Novas Tarefas, Recursos e Custos
+
+- Novas tarefas geram novos prazos e custos para o projeto.
+
+#### 5.0 Gerando o cronograma base do projeto
+
+- Uma vez definidos os pontos se geram relatórios de custos, prazos e recursos:
+
+    ![Estrutura de Custos e Recursos](./img/EstruturaCustosRecursos.png)
+
+- Linha base gerada é uma linha que demonstra a ideia de cronograma inicial e que ficará acompanhando o projeto com o realizado (adiantado ou atrasado).
+
+    ![Estrutura da Linha Base do Projeto](./img/EstruturaLinhaBase.png)
+
+- Caminhos e tarefas críticas devem ser observadas, pois uma vez iniciadas, elas podem, por qualquer tipo de atraso gerar atrasos na entrega do projeto.
