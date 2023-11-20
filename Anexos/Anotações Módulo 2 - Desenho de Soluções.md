@@ -226,8 +226,8 @@
     - Tarefas que tem vínculos (Relacionamento entre tarefas e latências)
         - Notações de vínculo:
 
-            Término início(TI): Uma tarefa inicia quando outra terminar
-            Início Início(II): Uma tarefa inicia quando outra iniciar 
+            - Término Início(TI): Uma tarefa inicia quando outra terminar
+            - Início Início(II): Uma tarefa inicia quando outra iniciar 
 
     - Ajuste dos tempos de execução e prazos
 
