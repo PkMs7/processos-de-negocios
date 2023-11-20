@@ -37,7 +37,7 @@
     - O: Output (Saídas)
     - C: Customer (Clientes)
 
-![Diagrama SIPOC](diagramaSipoc.png)
+![Diagrama SIPOC](./img/diagramaSipoc.png)
 
 - Passos para preparar um SIPOC:
 
@@ -90,4 +90,50 @@
 
 #### 1.0 Planejamento de planos de ação
 
-- 
+- Levantamento e escolha de ideias para soluções:
+
+    - Brainstorming: Levantamento de ideias para possíveis soluções. Objetivo de levantamento do maior número de ideias possível (limite um tempo para isso).
+
+        ![Brainstorming Eficaz](./img/brainstorming.png)
+
+    - Multivotação: Escolha das melhores ideias.
+
+        ![Multivotação](./img/multivotacao.png)
+
+#### 2.0 Modelos para otimização de resultados
+
+- Solver: é um suplemento do Microsoft Excel que você pode usar para teste de hipóteses. Use o Solver para encontrar um valor ideal (máximo ou mínimo) para uma fórmula em uma célula — conforme restrições, ou limites, sobre os valores de outras células de fórmula em uma planilha.
+
+- Break Even: Ponto de equilíbrio de uma organização. Mostra o quanto é necessário vender para que a receita se iguale aos custos. (Gerenciador de metas do excel ajuda a encontrar esse valor)
+
+#### 3.0 Plano de implementação
+
+- Planos de ação:
+
+    - 5w2h: 
+
+        - What - o que será feito?
+        - When - quando será feito.
+        - Who - quem fará.
+        - Why - Por que será feito?
+        - Where - onde será feito.
+        - How - como será feito.
+        - How much - quanto custará?
+
+    - Matriz Esforço x Impacto: A matriz de esforço e impacto é dividida em quatro quadrantes, classificando-os de acordo com o impacto gerado e o esforço despendido para executá-lo.
+
+#### 4.0 Gerenciamento de mudanças
+
+- Para implementação da Gestão de Mudanças, alguns pilares são muito importantes:
+
+    - Comunicação clara da visão e necessidades das mudanças
+    - Envolvimento dos colaboradores em cada uma das fases de mudança
+    - Reconhecimento e recompensas por novos comportamentos
+    - Comemoração a cada conquista
+    - Avaliação dos resultados das melhorias implementadas
+
+- Comprovações de melhorias:
+
+    - Eficácia: Concluíu-se as etapas do plano de ação?
+    - Efetividade: Qual foi o impacto no processo
+    - KPI: Quais impactos nos indicadores iniciais propostos?
