@@ -92,6 +92,58 @@ Definições resumidas:
 
 - Vantagens / riscos da automação: na medida em que sistemas automáticos não possuem inteligência, dependendo totalmente dos algoritmos, pode haver riscos na automação (ser causadora de reações descabidas ao contexto). Contudo, na maioria dos casos, a automação é benfazeja e evita muitos acidentes.
 
-### 
+### RPA: aplicações gerais
 
-#### 1.0 
+#### 1.0 RPA: o que é e para que serve?
+
+- Robô: termo oriundo da palavra tcheca "robota", que significa “trabalho forçado”. A primeira ideia de robô e as primeiras implementações foram físicas. Mais modernamente, o termo passou a ser associado também a certos artefatos de software.
+
+- RPA (Automação Robótica de Processos): consiste no uso de software para automatizar processos que envolvem trabalho humano repetitivo em sistemas digitais. Os robôs de RPA são softwares que utilizam a interface do usuário para capturar dados e agir sobre programas, realizando ações tais como abrir e salvar arquivos, copiar e preencher campos etc., de forma muito rápida.
+
+- Benefícios do RPA: o RPA libera as pessoas de trabalhos repetitivos, aumenta a velocidade e reduz falhas em trabalhos administrativos mais mecanizados, permite atuação 24 x 7 sem interferência humana, reduz custos, permite maior escalabilidade, melhora resultados (tempos de ciclo mais curtos nos processos) e permite automação mais rápida (ciclo de implementação de robôs em semanas ou meses).
+
+- Tarefas e sequências: a construção de robôs consiste na identificação das tarefas de user interface dos usuários e sua sequência.
+
+- Uipath (ferramenta): montamos um ambiente de automação de processos, por meio de uma versão trial da ferramenta Uipath, e vimos como podemos usá-la para automação de um cadastro Web e geração de guias de pagamento.
+
+#### 2.0 Jornada de desenvolvimento e adoção de RPA
+
+- Contexto de automação de RPA (de desktop automation a ML/AI): o RPA situa-se acima do RDA (automação de desktop), mas abaixo dos níveis de Machine Learning e Inteligência Artificial, embora possa utilizar elementos destes últimos em soluções mais sofisticadas.
+
+- Roadmap de implementação de RPA: um roadmap típico envolve um trabalho multidisciplinar com participação de TI e áreas de negócios, com realização de treinamentos, seleção de ferramenta, seleção de processos a automatizar, pilotos e roll-out, com monitoração constante.
+
+- CoE (Center of Excellence): grupo técnico encarregado de difundir o assunto RPA na organização.
+
+- Governança de automação / RPA: grupo de pessoas das áreas de negócio mais voltado a priorização de processos a automatizar e avaliação do impacto dos robôs nos resultados operacionais.
+
+- RPA on-premisse / RPA cloud: são as duas modalidades de RPA, respectivamente usando infraestrutura local e de servidores de terceiros.
+
+- Autmation Anywhere (ferramenta): montamos um ambiente de automação de processos, por meio de uma versão trial da ferramenta Automation Anywhere, e vimos como podemos usá-la para automação de um preenchimento automático de uma planilha excel, ou para identificação de informações recebidas num e-mail e inserção automáticas destas informações numa planilha de apoio de excel.
+
+#### 3.0 Funcionalidades gerais das ferramentas de RPA
+
+- Desenvolvimento “drag & drop”: recurso de design de robôs de RPA onde atividades e outros recursos são arrastados para a área de definição do fluxo da ferramenta, montando-se assim a sequência de atividades sem necessidade de codificação.
+
+- Gravação de fluxo de trabalho: recurso de ferramentas de RPA que permite gravar as atividades de user interface do usuário, objetivando repeti-las depois.
+
+- Desempenho de robôs: indicadores relativos ao funcionamento dos robôs de RPA, exibidos em dashboards das ferramentas.
+
+- RPA open source: modalidade de ferramentas de RPA no modelo de oferta "código aberto".
+
+- Blueprism(ferramenta): montamos um ambiente de automação de processos, por meio de uma versão trial da ferramenta Bluprism, entendendo:
+
+    - Como podemos usá-la para automação de uma pesquisa temática no google, como por exemplo por vinhos ou então para;
+
+    - A criação de um loop de atividades em sequência de um processo por "n" vezes, que poderemos gerenciar pelo uso de contador no processo automatizado por RPA.
+
+#### 4.0 Comparativo RPA x RDA
+
+- Desktop automation / RDA: modalidade de automação via aplicativos, na qual alguma interferência humana é demandada.
+
+- Bibliotecas de apoio à automação: recursos de desenvolvimento que oferecem classes para uso em codificação de programas destinados à automação.
+
+    - Por exemplo: o uso da biblioteca java Apache POI, que vimos na prática e que permite manipulação de arquivos do MS Office em programas Java.
+
+- Custo / benefício do RPA: análise que visa avaliar se é financeiramente vantajoso investir em RPA, em função dos ganhos conseguidos com as automações de processos decorrentes.
+
+- Liberação de pessoas do trabalho mecanizado: consequência da adoção de RPA, dado que ele automatiza este tipo de processo, resultando em maior motivação mas, também, em extinção de funções.
