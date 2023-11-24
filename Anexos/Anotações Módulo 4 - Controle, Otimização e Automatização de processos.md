@@ -147,3 +147,57 @@ Definições resumidas:
 - Custo / benefício do RPA: análise que visa avaliar se é financeiramente vantajoso investir em RPA, em função dos ganhos conseguidos com as automações de processos decorrentes.
 
 - Liberação de pessoas do trabalho mecanizado: consequência da adoção de RPA, dado que ele automatiza este tipo de processo, resultando em maior motivação mas, também, em extinção de funções.
+
+### Six Sigma: metodologia para melhoria de processos
+
+#### 1.0 Conceitos Chave
+
+- QA (Quality Assurance): Garantia de qualidade. Visa evitar defetios no processo usado para fazer o produto. Processo proativo de qualidade.
+
+- QC (Quality Control): Controle de qualidade. Visa identificar e corrigir defetios no produto final. Processo Reativo.
+
+-  Eficácia é algo adequado para atingir um propósito, de modo a alcançar o resultado pretendido ou esperado.
+
+- Eficiência é quando você executa uma tarefa, um processo da melhor forma possível, com o menor desperdício de tempo, esforço e recursos.
+
+- Lean thinking: Foca em identificar os clientes e especificar VALOR.
+
+- Six Sigma: Foca em dar credibilidade ao cliente buscando excelência.
+
+#### 2.0 Definindo seu problema
+
+- DMAIC: Conceito principal que permeia o Six Sigma
+
+    - “D” vem de define, então é definição
+    - “M” de measure, seria de medição, 
+    - “A” de analyze, análise, 
+    - "I" de improve, seria a melhoria
+    - "C" de control ou de controle.
+
+- D: Etapa que foca na definição do problema a ser tratado.
+
+#### 3.0 Medindo o seu processo
+
+- M: Durante a etapa de medição, a principal mensagem é aprofundar o conhecimento sobre o processo, identificar as principais características, levantar os desempenhos históricos e estabelecer metas. Para isso, o mapa de processos é um artefato importante para conhecer o processo.
+ 
+![8 Principais Desperdícios](oitoDesperdicios.png)
+
+#### 4.0 Identificando a causa raiz
+
+- A:  Identificar dentro do processo as causas e oportunidades de melhoria (e assim) uma grande ferramenta para que a gente consiga começar a identificar isso é através do brainstorm, é utilizar uma série de pessoas, um grupo de pessoas com ideias... disseminando as suas ideias, para que a gente consiga agrupá-las, detectar algum problema, alguma oportunidade.
+
+- Ao analisar é importante estressar o problema para chegar em uma causa raiz, e atacar o problema de forma mais acertiva. (Técnicas de identificação: Pareto, Ishikawa, 5 porquês)
+
+#### 5.0 Implementando e controlando
+
+- I: Mensagem nessa etapa de melhoria do DMAIC é de estabelecermos ações de melhorias no processo, focando na necessidade do cliente. O cliente é o nosso centro, nós temos que garantir que as melhorias que foram propostas, que foram mostradas nos ciclos anteriores, sejam cumpridas.
+
+- C: Principal mensagem agora no final é perpetuar essa mudança que conseguimos, essa melhoria que conseguimos, perpetuar isso na organização através de documentação, treinamento, acompanhamento dos indicadores.
+
+- Poka Yoke: Segue a ideia do brinquedo, limitando o caminho do usuário para que guie o caminho do processo desenvolvido. (Alerta, Controle e Desligamento)
+
+- Indicadores são ferramentas para que se controle o processo desenvolvido para que ele continue sendo seguido.
+
+- Planos de reação são planos para que se adotem estratégias para voltar as métricas e indicadores de saúde do processo.
+
+- Listagem de lições aprendidas no processo de DMAIC para implantação do novo processo ou da melhoria de um processo legado.
